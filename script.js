@@ -21,12 +21,6 @@ form.addEventListener('submit', event => {
     alert('Please enter your email');
     isValid = false;
   }
-  // Email validation
-  else if (!/\S+@\S+\.\S+/.test(email)) {
-    // Basic email regex
-    alert('Enter a valid email address!');
-    isValid = false;
-  }
   // Father's name recognition
   else if (father.value === '') {
     alert('Please enter your father\'s name');
