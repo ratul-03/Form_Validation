@@ -36,7 +36,7 @@ project-folder/
 
 ## Preview
 ### Form Layout
-![Form Validator Preview]https://formvalidorappwithjs.netlify.app
+Form Validator Preview https://formvalidorappwithjs.netlify.app
 
 ## Code Snippets
 ### JavaScript Validation Logic
