@@ -36,7 +36,7 @@ project-folder/
 
 ## Preview
 ### Form Layout
-![Form Validator Preview](https://via.placeholder.com/600x400?text=Form+Validator+Preview)
+![Form Validator Preview]https://formvalidorappwithjs.netlify.app
 
 ## Code Snippets
 ### JavaScript Validation Logic
